@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameOn", "GameOn\GameOn.vcxproj", "{61378B4D-D44E-403F-B70F-D1A349FF549F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61378B4D-D44E-403F-B70F-D1A349FF549F}.Debug|x64.ActiveCfg = Debug|x64
+		{61378B4D-D44E-403F-B70F-D1A349FF549F}.Debug|x64.Build.0 = Debug|x64
+		{61378B4D-D44E-403F-B70F-D1A349FF549F}.Debug|x86.ActiveCfg = Debug|Win32
+		{61378B4D-D44E-403F-B70F-D1A349FF549F}.Debug|x86.Build.0 = Debug|Win32
+		{61378B4D-D44E-403F-B70F-D1A349FF549F}.Release|x64.ActiveCfg = Release|x64
+		{61378B4D-D44E-403F-B70F-D1A349FF549F}.Release|x64.Build.0 = Release|x64
+		{61378B4D-D44E-403F-B70F-D1A349FF549F}.Release|x86.ActiveCfg = Release|Win32
+		{61378B4D-D44E-403F-B70F-D1A349FF549F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D385ACCB-7350-4A62-9658-71F28D10B8F0}
+	EndGlobalSection
+EndGlobal
